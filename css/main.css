@@ -1,0 +1,22 @@
+#container {
+  margin-top: 5%;
+  width: 50%;
+}
+
+.well {
+  width: 50%;
+  margin: auto;
+}
+
+.head {
+  text-align: center;
+}
+
+.step {
+  color: gray;
+  text-align: center;
+}
+
+#finish {
+  text-align: center;
+}
